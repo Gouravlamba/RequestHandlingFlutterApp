@@ -119,22 +119,22 @@ Handles edge cases such as:
 - **WebSockets / Polling** - Real-time updates  
 
 ---
-Screenshots
-End User App
-Description: Submit requests containing multiple items, view status updates, and track progress in real-time.
-[End User App](userend.png) 
+## Screenshots
 
-Receiver App
-Description: Review requests item by item, confirm availability, and manage partially fulfilled requests.
-[End reciever App](recieverend.png) 
+### End User App
+![End User App](userend.png)  
+**Description:** Submit requests containing multiple items, view status updates, and track progress in real-time.
 
-General UI
-Description: Clean and minimal interface focusing on usability and clarity.
-(img1.png)
-(img2.png)
-(img3.png)
-(img4.png)
+### Receiver App
+![Receiver App](recieverend.png)  
+**Description:** Review requests item by item, confirm availability, and manage partially fulfilled requests.
 
+### General UI
+![UI 1](img1.png)  
+![UI 2](img2.png)  
+![UI 3](img3.png)  
+![UI 4](img4.png)  
+**Description:** Clean and minimal interface focusing on usability and clarity.
 
 Demo Video
 Watch the full workflow of the app in action:
