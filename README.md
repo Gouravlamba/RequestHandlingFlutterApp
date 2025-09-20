@@ -138,7 +138,10 @@ Handles edge cases such as:
 
 Demo Video
 Watch the full workflow of the app in action:
-[![Demo Video.png](https://drive.google.com/uc?export=view&id=1zSAbxUrpWiIBtjhBmyucIRE-Cg9hwuU1)](https://drive.google.com/file/d/1zSAbxUrpWiIBtjhBmyucIRE-Cg9hwuU1/preview)
+## Demo Video
+
+[![Demo Video](Demovideo.png)](https://drive.google.com/file/d/1zSAbxUrpWiIBtjhBmyucIRE-Cg9hwuU1/preview)
+
 
 Description: Shows both End User and Receiver roles interacting with the system, real-time status updates, and backend workflow.
 
