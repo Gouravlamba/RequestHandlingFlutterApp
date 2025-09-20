@@ -122,18 +122,19 @@ Handles edge cases such as:
 Screenshots
 End User App
 Description: Submit requests containing multiple items, view status updates, and track progress in real-time.
-userend.png
+[End User App](userend.png) 
 
 Receiver App
 Description: Review requests item by item, confirm availability, and manage partially fulfilled requests.
-recieverend.png
+[End reciever App](recieverend.png) 
 
 General UI
 Description: Clean and minimal interface focusing on usability and clarity.
-img1.png
-img2.png
-img3.png
-img4.png
+(img1.png)
+(img2.png)
+(img3.png)
+(img4.png)
+
 
 Demo Video
 Watch the full workflow of the app in action:
